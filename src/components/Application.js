@@ -37,6 +37,7 @@ export default function Application(props) {
       );
     }
   );
+  console.log("appointment value is ", appointments)
 
   return (
     <main className="layout">
